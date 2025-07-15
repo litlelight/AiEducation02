@@ -52,6 +52,9 @@ Learning‑Analytics Principles → temporal granularity & early‑warning label
 
 See the paper for formal definitions and ablation results.
 
+<img width="415" height="277" alt="image" src="https://github.com/user-attachments/assets/5bcc49ec-5b24-4e07-92af-27ace70d8169" />
+
+
 📦 Installation
 
 # 1. Clone repo
